@@ -1,0 +1,33 @@
+.panel panel-default{
+	border:2px solid blue;
+}
+.centar{
+	margin: auto;
+}
+.panel-heading{
+	background-color: grey;
+	color:#fff;
+	padding: 4px;
+	margin: 4px;
+	border-radius: 5px;
+}
+nav{
+	width: 100%;
+	background-color: #C5C8C9;
+}
+nav a{
+	color:black;
+	display: block;
+}
+.slike{
+	width: 200px;
+	height: 150px;
+}
+.col-lg-4 img{
+	width:150px;
+	height: 100px;
+	float: left;
+}
+modal-title naslov{
+	float: left;
+}
